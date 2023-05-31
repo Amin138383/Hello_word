@@ -1,4 +1,4 @@
-# Hello_word
+# hello-word
 
 Hi Humans !
 
